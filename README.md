@@ -10,3 +10,9 @@ Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento d
 ## Laravel
 Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC. Links úteis sobre o Laravel:
 - Site oficial. URL: https://laravel.com/
+
+
+## Git
+
+Ferramentas úteis para conventional commits.
+- Commitizen CZ-CLI. URL: https://github.com/commitizen/cz-cli.
