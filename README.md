@@ -16,3 +16,7 @@ Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para
 
 Ferramentas úteis para conventional commits.
 - Commitizen CZ-CLI. URL: https://github.com/commitizen/cz-cli.
+
+## DDD (Domain Driven Design)
+Lins úteis que falam/ensinam sobre DDD.
+- Aprenda DDD (Domain Driven Design) do jeito certo. Disponível em: https://www.youtube.com/watch?v=eUf5rhBGLAk.
