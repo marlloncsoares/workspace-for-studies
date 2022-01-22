@@ -2,6 +2,11 @@
 
 Olá, aqui organizo meus links que utilizo para estudar sobre programação de computadores, tecnologia e conteúdos afins. Fique a vontade para reaproveita-los.
 
+## Algoritmos
+
+### Arrays
+- Algoritmo de KMP: https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/kmp.html
+
 ## Vue.js
 Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única. Links úteis sobre Vue.js:
 - Site oficial. URL: https://vuejs.org/
