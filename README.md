@@ -3,7 +3,6 @@
 Olá, aqui organizo meus links que utilizo para estudar sobre programação de computadores, tecnologia e conteúdos afins. Fique a vontade para reaproveita-los.
 
 ## Algoritmos
-
 ### Arrays
 - Algoritmo de KMP: https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/kmp.html
 
@@ -25,3 +24,6 @@ Ferramentas úteis para conventional commits.
 ## DDD (Domain Driven Design)
 Lins úteis que falam/ensinam sobre DDD.
 - Aprenda DDD (Domain Driven Design) do jeito certo. Disponível em: https://www.youtube.com/watch?v=eUf5rhBGLAk.
+
+## Dicionário de abreviaturas
+- URL: https://www.ime.usp.br/~pf/estruturas-de-dados/dictionary.html
