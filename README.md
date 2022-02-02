@@ -11,6 +11,11 @@ Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento d
 - Site oficial. URL: https://vuejs.org/
 - Vue.js: O Documentário. URL: https://www.youtube.com/watch?v=OrxmtDw4pVI&t=1688s
 
+## Reactjs
+- Cheat sheet: https://reactcheatsheet.com/
+- Cheat sheet: https://devhints.io/react
+- Cheat sheet: https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd
+
 ## Laravel
 Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC. Links úteis sobre o Laravel:
 - Site oficial. URL: https://laravel.com/
