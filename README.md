@@ -32,3 +32,8 @@ Lins úteis que falam/ensinam sobre DDD.
 
 ## Dicionário de abreviaturas
 - URL: https://www.ime.usp.br/~pf/estruturas-de-dados/dictionary.html
+
+
+## Ideias de projetos
+- https://github.com/florinpop17/app-ideas
+- https://github.com/Jciel/awesome-social-projects
