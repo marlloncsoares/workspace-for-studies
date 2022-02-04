@@ -38,3 +38,7 @@ Lins úteis que falam/ensinam sobre DDD.
 ## Ideias de projetos
 - https://github.com/florinpop17/app-ideas
 - https://github.com/Jciel/awesome-social-projects
+
+## Vídeos / Palestras / Talks
+- O guia DEFINITIVO de Organizações | Desconstruindo o Modelo Spotify [PARTED R]. Disponível em: https://www.youtube.com/watch?v=6S94h3xSbnI&list=WL&index=5&t=2809s
+
