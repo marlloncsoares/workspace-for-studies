@@ -16,6 +16,9 @@ Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento d
 - Cheat sheet: https://devhints.io/react
 - Cheat sheet: https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd
 - Guia: https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f
+- Roteamento no Reactjs:
+  - Rotas com React Router Dom (fácil demais). Disponível em: https://www.youtube.com/watch?v=9pB_lwmLc74
+  - Curso React: Implementando o React Router - #15. Disponível em: https://www.youtube.com/watch?v=eJ8W3l371Jg
 
 ## Laravel
 Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC. Links úteis sobre o Laravel:
