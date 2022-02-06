@@ -46,3 +46,7 @@ Lins úteis que falam/ensinam sobre DDD.
 ## Vídeos / Palestras / Talks
 - O guia DEFINITIVO de Organizações | Desconstruindo o Modelo Spotify [PARTED R]. Disponível em: https://www.youtube.com/watch?v=6S94h3xSbnI&list=WL&index=5&t=2809s
 
+## Artigos e sites diversos
+- Sites para praticar programação. Disponível em: https://programadorviking.com.br/os-melhores-websites-para-desafios-de-programacao/
+- Hacker Rank. Disponível em: https://www.hackerrank.com/
+
