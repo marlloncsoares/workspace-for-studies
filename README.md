@@ -22,6 +22,8 @@ Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento d
   - Curso React: Implementando o React Router - #15. Disponível em: https://www.youtube.com/watch?v=eJ8W3l371Jg
   - React Router 6.0. Disponível em: https://www.youtube.com/watch?v=G7hHdcW4kQY
   - Documentação React Router 6. Disponível em: https://reactrouter.com/docs/en/v6
+- React Hooks
+  - React Hooks na prática | Diego Fernandes. Disponível em: https://www.youtube.com/watch?v=6WB16wZS61c
 
 ## Laravel
 Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC. Links úteis sobre o Laravel:
