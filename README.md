@@ -57,3 +57,6 @@ Lins úteis que falam/ensinam sobre DDD.
 - Sites para praticar programação. Disponível em: https://programadorviking.com.br/os-melhores-websites-para-desafios-de-programacao/
 - Hacker Rank. Disponível em: https://www.hackerrank.com/
 
+## Repositórios úteis
+- Tradução do livro Eloquente Javascript. Disponível em: https://github.com/braziljs/eloquente-javascript
+
