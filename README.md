@@ -58,6 +58,7 @@ Lins úteis que falam/ensinam sobre DDD.
 - Hacker Rank. Disponível em: https://www.hackerrank.com/
 - DevChallenge. Disponível em: https://www.devchallenge.com.br/
 - Full Cycle Developer at Netflix. Disponível em: https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
+- MIT cursos de programação. Disponível em: https://ocw.mit.edu/courses/intro-programming/
 
 ## Repositórios úteis
 - Tradução do livro Eloquente Javascript. Disponível em: https://github.com/braziljs/eloquente-javascript
