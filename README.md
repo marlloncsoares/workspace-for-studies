@@ -61,4 +61,5 @@ Lins úteis que falam/ensinam sobre DDD.
 
 ## Repositórios úteis
 - Tradução do livro Eloquente Javascript. Disponível em: https://github.com/braziljs/eloquente-javascript
+- Livros de programação. Disponível em: https://github.com/EbookFoundation/free-programming-books
 
