@@ -54,6 +54,7 @@ Lins úteis que falam/ensinam sobre DDD.
 - O guia DEFINITIVO de Organizações | Desconstruindo o Modelo Spotify [PARTED R]. Disponível em: https://www.youtube.com/watch?v=6S94h3xSbnI&list=WL&index=5&t=2809s
 - Por trás de barreiras e soluções propostas por micro-serviços | Podcast Faladev #28. Disponível em: https://www.youtube.com/watch?v=Fjmd-uWir0Q
 - Especial: entrevista exclusiva com José Valim, criador da linguagem Elixir | Podcast Faladev #26. Disponível em: https://www.youtube.com/watch?v=roc-5euwalY
+- Go, Kafka, Microsserviços e Bigdata na Neoway. Disponível em: https://www.youtube.com/watch?v=0GY5r1P9eHE
 
 ## Artigos e sites diversos
 - Sites para praticar programação. Disponível em: https://programadorviking.com.br/os-melhores-websites-para-desafios-de-programacao/
