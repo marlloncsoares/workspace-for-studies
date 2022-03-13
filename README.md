@@ -63,6 +63,7 @@ Lins úteis que falam/ensinam sobre DDD.
 - Full Cycle Developer at Netflix. Disponível em: https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
 - MIT cursos de programação. Disponível em: https://ocw.mit.edu/courses/intro-programming/
 - Learn to Code. Disponível em: https://www.freecodecamp.org/learn/
+- Clean Code com JavaScript. Disponível em: https://danieldcs.com/clean-code-com-javascript/
 
 ## Repositórios úteis
 - Tradução do livro Eloquente Javascript. Disponível em: https://github.com/braziljs/eloquente-javascript
