@@ -64,8 +64,10 @@ Lins úteis que falam/ensinam sobre DDD.
 - MIT cursos de programação. Disponível em: https://ocw.mit.edu/courses/intro-programming/
 - Learn to Code. Disponível em: https://www.freecodecamp.org/learn/
 - Clean Code com JavaScript. Disponível em: https://danieldcs.com/clean-code-com-javascript/
+- Catalog of Refactorings. Disponível em: https://refactoring.com/catalog/
 
 ## Repositórios úteis
 - Tradução do livro Eloquente Javascript. Disponível em: https://github.com/braziljs/eloquente-javascript
 - Livros de programação. Disponível em: https://github.com/EbookFoundation/free-programming-books
+- Javascript refactoring. Disponível em: https://github.com/KarlPurk/javascript-refactoring
 
